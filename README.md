@@ -18,7 +18,7 @@ This guide covers these topics:
 
 ## What Is New
 
-**Variant Summary**: In the most recent release, we added a summary box that will show up when the user is querying a specific variant with *rsid*. Some high-level information will be extracted and processed into a introduction wiki, summary on related genes will also be displayed when available.
+**Variant Summary**: In the most recent release, we added a summary box that will show up when the user is querying a specific variant with *rsid*. Some high-level information will be extracted and processed into a introduction wiki, summary on related genes will also be displayed when available. The summary is now limited to coding variants, and will be extended to non-coding variants in the future.
 
 <img src="res/summary_box.png">
 
