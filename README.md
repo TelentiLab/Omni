@@ -78,7 +78,7 @@ A common complaint about many variant browsers is that the search pattern has to
 
 ### Compound Search
 
-Anything search patterns mentioned above can be used together, if they make sense to you. Omni will try to be as smart as possible. For example, `rs333 rs151 clinvar cadd` will search for both `rs333` AND `rs151` on either `clinvar` OR `cadd`.
+Any search patterns mentioned above can be used together, if they make sense to you. Omni will try to be as smart as possible. For example, `rs333 rs151 clinvar cadd` will search for both `rs333` AND `rs151` on either `clinvar` OR `cadd`.
 
 <img src="res/compound_search.png">
 
