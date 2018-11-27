@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This a public repo to collect issues and feedback for **OMNI**, a powerful browser that harmonizes knowledge, functional significance, population prevalence and available literature at the single nucleotide level. More info about Omni can be found at: [https://omni.telentilab.com/about](https://omni.telentilab.com/about)
+This a public repo to provide guide and collect issues and feedback for **OMNI**, a powerful browser that harmonizes knowledge, functional significance, population prevalence and available literature at the single nucleotide level. More info about Omni can be found at: [https://omni.telentilab.com/about](https://omni.telentilab.com/about)
 
 <img src="res/homepage.png">
 
