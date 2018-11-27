@@ -4,7 +4,7 @@
 
 This a public repo to collect issues and feedback for **OMNI**, a powerful browser that harmonizes knowledge, functional significance, population prevalence and available literature at the single nucleotide level. More info about Omni can be found at: [https://omni.telentilab.com/about](https://omni.telentilab.com/about)
 
-<img src="res/homepage.png" width =600>
+<img src="res/homepage.png">
 
 ## Quick View
 
@@ -52,13 +52,13 @@ For now, these search terms are supported:
 
 By default, Omni displays data from all sources that are available.
 
-<img src="res/search_result.png" width =600>
+<img src="res/search_result.png" >
 
 ### Specifying Sources
 
 If you wish to search for a specific source, you may append the source name behind the search term. For example, `"ccr5 clinvar"` will show only *ClinVar* data for the gene *CCR5*. 
 
-<img src="res/specifying_sources.png" width =600>
+<img src="res/specifying_sources.png">
 
 P.S: for the current version, we wish to highlight our ncER scores, so it would always appear on the top of first page.
 
@@ -73,7 +73,7 @@ A common complaint about many variant browsers is that the search pattern has to
 
 Anything search patterns mentioned above can be used together, if they make sense to you. Omni will try to be as smart as possible. For example, `rs333 rs151 clinvar cadd` will search for both `rs333` AND `rs151` on either `clinvar` OR `cadd`.
 
-<img src="res/compound_search.png" width =600>
+<img src="res/compound_search.png">
 
 If you found a particular search pattern that doesn't return desired result, feel free to raise an issue in this repo and we may take a look how we can improve.
 
