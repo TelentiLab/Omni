@@ -10,10 +10,17 @@ This a public repo to provide guide and collect issues and feedback for **OMNI**
 
 This guide covers these topics:
 - [What Is Omni](#introduction)
+- [What Is New](#what-is-new)
 - [Data Sources](#data-sources)
 - [What Is ncER](#what-is-ncer)
 - [How To Search Omni](#how-to-search-omni)
-- [Issues & Feedback]()
+- [Issues & Feedback](#issues-&-feedback)
+
+## What Is New
+
+**Variant Summary**: In the most recent release, we added a summary box that will show up when the user is querying a specific variant with *rsid*. Some high-level information will be extracted and processed into a introduction wiki, summary on related genes will also be displayed when available.
+
+<img src="res/summary_box.png">
 
 ## Data Sources
 
@@ -82,3 +89,5 @@ If you found a particular search pattern that doesn't return desired result, fee
 As Omni is in a very preliminary stage and is actively under development. Please feel free to reach us should you have any opinions, feature requests, or issues. 
 
 We recommend that you **raise an issue** in this repo, which is under regular watch, by going the the [**Issues**](https://github.com/TelentiLab/Omni/issues) tab on top of the page. We also recommend that you **search the existing issues** first before raising a new one. Great minds think alike, so there might be an existing issue thread, either open or closed, discussing the problem that may contain helpful information for you.
+
+Alternatively, you may use the contacts in the about page ([https://omni.telentilab.com/about](https://omni.telentilab.com/about)) if you wish to contact specific personnel.
