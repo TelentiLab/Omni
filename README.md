@@ -88,6 +88,6 @@ If you found a particular search pattern that doesn't return desired result, fee
 
 As Omni is in a very preliminary stage and is actively under development. Please feel free to reach us should you have any opinions, feature requests, or issues. 
 
-We recommend that you **raise an issue** in this repo, which is under regular watch, by going the the [**Issues**](https://github.com/TelentiLab/Omni/issues) tab on top of the page. We also recommend that you **search the existing issues** first before raising a new one. Great minds think alike, so there might be an existing issue thread, either open or closed, discussing the problem that may contain helpful information for you.
+We recommend that you **raise an issue** in this repo, which is under regular watch, by going to the [**Issues**](https://github.com/TelentiLab/Omni/issues) tab on top of the page. We also recommend that you **search the existing issues** first before raising a new one. Great minds think alike, so there might be an existing issue thread, either open or closed, discussing the problem that may contain helpful information for you.
 
 Alternatively, you may use the contacts in the about page ([https://omni.telentilab.com/about](https://omni.telentilab.com/about)) if you wish to contact specific personnel.
