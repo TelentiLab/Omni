@@ -20,6 +20,8 @@ This guide covers these topics:
 
 **Variant Summary**: In the most recent release, we added a summary box that will show up when the user is querying a specific variant with *rsid*. Some high-level information will be extracted and processed into a introduction wiki, summary on related genes will also be displayed when available. The summary is now limited to coding variants, and will be extended to non-coding variants in the future.
 
+**NLP Tool**: A Natural Language Processing tool is used to analyze a variant. When the user is querying a single variant using an RSID, a NLP option will appear in the summary box. The logic behind the scene is to search for this RSID on PubMed and run the NLP tool on these articles' abstracts and extract all relative genomic and clinical terms.
+
 <img src="res/summary_box.png">
 
 ## Data Sources
@@ -33,6 +35,7 @@ The current Omni version aggregates knowledge from these data sources:
 - ncER ([What is ncER?](#what-is-ncer?))
 - SnpEff ([http://snpeff.sourceforge.net/SnpEff.html](http://snpeff.sourceforge.net/SnpEff.html))
 - PubMed ([https://www.ncbi.nlm.nih.gov/pubmed/](https://www.ncbi.nlm.nih.gov/pubmed/))
+- CCR ([Constrained Coding Regions](https://github.com/quinlan-lab/ccr#a-map-of-constrained-coding-regions-ccrs-in-the-human-genome))
 
 More data sources are to be added in future releases. If you have any preference or recommendation, please feel free to raise an issue in this GitHub repo. For more information, please refer to the [Issues & Feedback](#issues-&-feedback) section.
 
@@ -90,4 +93,4 @@ As Omni is in a very preliminary stage and is actively under development. Please
 
 We recommend that you **raise an issue** in this repo, which is under regular watch, by going to the [**Issues**](https://github.com/TelentiLab/Omni/issues) tab on top of the page. We also recommend that you **search the existing issues** first before raising a new one. Great minds think alike, so there might be an existing issue thread, either open or closed, discussing the problem that may contain helpful information for you.
 
-Alternatively, you may use the contacts in the about page ([https://omni.telentilab.com/about](https://omni.telentilab.com/about)) if you wish to contact specific personnel.
+You may also contact us via [omni@telentilab.com](mailto:omni@telentilab.com). Alternatively, you may use the contacts in the about page ([https://omni.telentilab.com/about](https://omni.telentilab.com/about)) if you wish to contact specific personnel.
